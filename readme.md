@@ -32,9 +32,10 @@ Este projeto tem como objetivo praticar:
 - Python 3
 - Bibliotecas padrão (`random`, `string`)
 
----
+----
 
 ## ▶️ Como executar o projeto
+
 
 ### 1️⃣ Verifique se o Python está instalado
 ```bash
