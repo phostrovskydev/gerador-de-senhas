@@ -39,3 +39,8 @@ Este projeto tem como objetivo praticar:
 ### 1️⃣ Verifique se o Python está instalado
 ```bash
 python --version
+Clone o repositório:
+https://github.com/pedromartoniHQ/gerador-de-senhas
+Execute o script:
+python main.py
+
